@@ -15,7 +15,7 @@ The data is organized into 18 CSV files. The files are in long and wide data for
 
 I modeled the data by creating the tables using DDL on Postgresql and importing the CSV files into those tables. I also imported CSV files into Google Sheets.
 
-## Documentation of Any Cleaning or Manipulation of Data:  Here
+## Documentation of Any Cleaning or Manipulation of Data:  [Here](https://github.com/nikku-b/Bellabeat_Case_Study/blob/main/Changelog.md)
 
 The tools I used to clean the data were SQL and Google Sheets. I used SQL for the large files and Google Sheets for the smaller files.
 
