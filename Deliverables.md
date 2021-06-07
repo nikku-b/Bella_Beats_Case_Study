@@ -1,4 +1,4 @@
-## Summary of the business task:
+## Summary of the business task
 
 The business task was to determine Bellabeat’s marketing strategies to grow their client base. I did this by finding trends of smart device usage data that could be related to one of Bellabeat’s products.
 
