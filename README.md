@@ -1,1 +1,1 @@
-# Bella_Beats_Case_Study
+# BellaBeat_Case_Study
