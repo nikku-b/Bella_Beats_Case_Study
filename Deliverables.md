@@ -29,12 +29,12 @@ I created bins of calorie ranges and times of day to get aggregated data for tho
 
 After the transformations, I loaded the final tables into Tableau using a Postgresql connector.
 
-## A Summary of Analysis: Here
+## A Summary of Analysis: [Here](https://github.com/nikku-b/Bellabeat_Case_Study/blob/main/CaseStudyPresentation.pptx)
 
 I primarily sorted the files by Id and date. I also sorted the data by average calories burned descending. I made sure to format the dates to standardized date format. 
 
-## Supporting Visualizations and Key Findings: Here
+## Supporting Visualizations and Key Findings: [Here](https://github.com/nikku-b/Bellabeat_Case_Study/blob/main/CaseStudyPresentation.pptx)
 
-## Top High-level Recommendations Based on Your Analysis: Here
+## Top High-level Recommendations Based on Your Analysis: [Here](https://github.com/nikku-b/Bellabeat_Case_Study/blob/main/CaseStudyPresentation.pptx)
 
 I would like to look at more data related to sleep and stress to enhance the work that I’ve done. 
